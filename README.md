@@ -1,0 +1,1 @@
+# Visual-diagram-of-the-Admin-architecture
